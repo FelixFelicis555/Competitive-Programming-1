@@ -1,0 +1,16 @@
+[
+	{
+		"correct_answers":
+		[
+			"NO"
+		],
+		"test": "ABA\n"
+	},
+	{
+		"correct_answers":
+		[
+			"YES"
+		],
+		"test": "BACFAB\n"
+	}
+]
